@@ -1,0 +1,1 @@
+// This folder will contain views such as pages or screens for the home feature.

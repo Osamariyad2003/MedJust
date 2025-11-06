@@ -1,0 +1,1 @@
+// This folder will contain Hive-related configurations, adapters, and utilities.

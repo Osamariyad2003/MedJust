@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "631362355665",
+    "project_id": "medjust-d26eb",
+    "storage_bucket": "medjust-d26eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631362355665:android:9c82ef6c243c495d69e0f0",
+        "android_client_info": {
+          "package_name": "com.example.med_just"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631362355665-rjrfr8dqvrhsrbtkvc6nrrbaubfnvn0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_YU8S9rMxpewLEKLxcOYovdPmR4J20mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631362355665-rjrfr8dqvrhsrbtkvc6nrrbaubfnvn0q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631362355665-jkvjcql523gq8079414mpss9p6vrml87.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medJust"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
